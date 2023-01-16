@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Built-By: propietario
-Build-Jdk: 17.0.5
-Main-Class: com.tutorialspoint.MainApp
-Created-By: Maven Integration for Eclipse
-

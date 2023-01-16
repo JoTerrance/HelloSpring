@@ -157,6 +157,11 @@
 	                <descriptorRefs>
 	                    <descriptorRef>jar-with-dependencies</descriptorRef>
 	                </descriptorRefs>
+                    <archive>
+                        <manifest>
+                            <mainClass>com.tutorialspoint.MainApp</mainClass>
+                        </manifest>
+                    </archive>
 	            </configuration>
 	
 	            <executions>
